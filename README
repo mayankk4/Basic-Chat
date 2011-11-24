@@ -1,0 +1,14 @@
+Basic instruction to run client server appication
+
+open 1 terminal
+cd to wherever chatserver.class is placed, and type
+java chatserver <portnumber(8000 and above)>
+... server is up :O
+
+
+oper 2nd terminal
+cd to wherever chatclient.class is placed, and type
+java chatclient <ip of server(in this case 127.0.0.1)> <portnumber(of the server)>
+... client is connected :O
+
+now connect another client guy from 3rd terminal and chat with yourself on both sides … lame ? :P
